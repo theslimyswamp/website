@@ -1,5 +1,7 @@
 # The Slimy Swamp Website
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > A hub of information for [The Slimy Swamp](https://www.github.com/TheSlimySwamp).
 
 ## To-Do List
