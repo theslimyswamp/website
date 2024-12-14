@@ -18,7 +18,7 @@
 
 ## License
 
-[The Slimy Swamp Website](https://github.com/TheSlimySwamp/website) Copyright (C) 2024 [Esoteric Foundation](https://esoteric.foundation)
+[The Slimy Swamp Website](./) Copyright (C) 2024 [Esoteric Foundation](https://esoteric.foundation)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
